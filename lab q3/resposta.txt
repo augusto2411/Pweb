@@ -1,0 +1,4 @@
+CSS Grid é recomendado quando voce necessita de um controle mais detalhado 
+sobre o elemento por exemplo galera de imagens, dashboards e paineis, ja o display
+flex é recomendado para alinhamentos mais simples sem a necessidade de um controle aprimorado
+sobre cada elemento, por exemplo lista de itens e barras de navegacao 

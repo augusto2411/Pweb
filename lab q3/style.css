@@ -1,0 +1,20 @@
+.main{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 6px;
+    gap: 6px;
+    justify-content: center;
+    align-items: center;
+}
+
+aside{
+    border: 2px solid black;
+    height: 400px;
+    text-align: center;
+}
+
+.maincontent{
+    border: 2px solid black;
+    height: 400px;
+    text-align: center;
+}

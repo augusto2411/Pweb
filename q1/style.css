@@ -1,0 +1,20 @@
+p{
+    display: inline;
+    background-color: black;
+    color: bisque;
+    border-radius: 25%;
+    margin: 10px;
+    padding: 5px
+}
+
+header{
+    background-color: rgb(122, 122, 122);
+    text-align: center;
+    padding: 1x;
+}
+
+footer{
+    background-color: rgb(122, 122, 122);
+    text-align: center;
+    padding: 1x;
+}

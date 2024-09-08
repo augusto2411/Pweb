@@ -1,0 +1,21 @@
+li{
+    display:inline-block;
+    width: 20vw;
+    background-color: black;
+    border-radius: 15%;
+    text-align: center;
+}
+
+a{
+    color: bisque;
+}
+
+article{
+    display: inline-block;
+    width: 45%;
+    margin: 1%;
+    background-color: black;
+    color: bisque;
+    border-color: bisque;
+    box-shadow: 3px 3px 7px rgba(0, 0, 0.3) ;
+}
