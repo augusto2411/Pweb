@@ -1,0 +1,44 @@
+/*!************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[3]!./src/components/styles/counter.module.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************/
+.counter_main__rSibO {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  justify-content: center;
+  align-items: center;
+}
+
+.counter_container__opo_V {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 500px;
+  border-radius: 40px;
+  background-color: blueviolet;
+}
+
+.counter_button__8NfYi {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.counter_button__8NfYi:hover {
+  background-color: grey;
+}
+
+.counter_botoes__tcdJo {
+  display: flex;
+  gap: 5%;
+  padding: 3%;
+}
+
